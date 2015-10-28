@@ -8,6 +8,7 @@ hexo generate -w
 For more info check hexo documentation.
 
 ## TODO:
+
 [ ] Finish theme
 [ ] Update translations
 [ ] Build to server
