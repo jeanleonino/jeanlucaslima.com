@@ -9,7 +9,7 @@ For more info check hexo documentation.
 
 ## TODO:
 
-[ ] Finish theme
-[ ] Update translations
-[ ] Build to server
-[ ] Add server configuration to _config.yml
+- [ ] Finish theme
+- [ ] Update translations
+- [ ] Build to server
+- [ ] Add server configuration to _config.yml
